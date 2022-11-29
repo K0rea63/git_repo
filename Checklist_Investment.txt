@@ -1,0 +1,12 @@
+Application: Investment
+Version: 3.0006.793
+TEstest date: 25.08.2022
+Environment: iOS 15.2.1
+Tester: Alexandrov A.
+Зайти в приложение: passed
+Пройти анбординг: passed
+Пройти все тесты: passed
+Нажать Continue: passed
+Нажать Ссылку: passed
+Проверить перенаправление на Capital.com: passed
+Выйти из приложения: passed
